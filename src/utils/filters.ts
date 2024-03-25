@@ -5,8 +5,8 @@ export const FILTERS = [
     "Gamer",
     "Escritorio",
     "Casa",
-    "Sexo",
-    "Mulheres",
+   
+   
    
    
     

@@ -7,13 +7,13 @@ export const POSTS = [
 
      {
         id:"2",
-        title:"sx",
+        title:"Pumpkin",
         image:"https://images.pexels.com/photos/3773665/pexels-photo-3773665.jpeg?auto=compress&cs=tinysrgb&w=600",
      },
 
      {
         id:"3",
-        title:"fuck-you",
+        title:"Point the finger",
         image:"https://images.pexels.com/photos/905947/pexels-photo-905947.jpeg?auto=compress&cs=tinysrgb&w=600",
      },
      {
@@ -24,13 +24,13 @@ export const POSTS = [
 
    {
       id:"5",
-      title:"sx",
+        title:"Pumpkin",
       image:"https://images.pexels.com/photos/3773665/pexels-photo-3773665.jpeg?auto=compress&cs=tinysrgb&w=600",
    },
 
    {
       id:"6",
-      title:"fuck-you",
+      title:"Point the finger",
       image:"https://images.pexels.com/photos/905947/pexels-photo-905947.jpeg?auto=compress&cs=tinysrgb&w=600",
    },
      
